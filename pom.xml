@@ -21,6 +21,7 @@
         <module>eureka-server</module>
         <module>eureka-client</module>
         <module>spring-ribbon-client</module>
+        <module>eureka-feign-client</module>
     </modules>
 
     <properties>
